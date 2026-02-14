@@ -8,4 +8,5 @@ function tabuada(n) {
 }
 }
 
-tabuada(12)
+
+tabuada(5)
